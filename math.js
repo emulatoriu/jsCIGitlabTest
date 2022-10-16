@@ -3,7 +3,7 @@ function sum(a, b) {
 }
 
 function diff(a, b) {
-    return a - b - 1;
+    return a - b;
 }
 
 module.exports = {sum, diff};
